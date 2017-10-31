@@ -34,7 +34,6 @@ package naming;
  * @see InterfaceExamples
  * 
  * @author xiaodong
- * @
  *
  */
 
